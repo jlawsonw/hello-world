@@ -5,5 +5,4 @@
  * Date: 3/8/2016
  * Time: 3:06 PM
  */
-echo 'ljhjkhkljhuiyg';
-echo '2';
+echo 'Hello World!';
